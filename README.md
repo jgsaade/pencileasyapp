@@ -5,10 +5,10 @@
 
 ## Install & Run
 
-git clone https://github.com/pldtn/pencileasyapp.git
-cd pencileasyapp
-npm install
-npm run dev
+- git clone https://github.com/pldtn/pencileasyapp.git
+- cd pencileasyapp
+- npm install
+- npm run dev
 
 ## Libraries
 
