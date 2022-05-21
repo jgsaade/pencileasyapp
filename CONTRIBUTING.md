@@ -9,7 +9,7 @@ The project is built with basic web setup (HTML, CSS, and JavaScript).
 *Note: You need NodeJS installed in your machine to run formatter and server*
 
 ```
-git clone ##link##
+git clone https://github.com/pldtn/pencileasyapp.git
 cd pencileasyapp
 npm install
 npm run dev
