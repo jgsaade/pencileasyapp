@@ -3,7 +3,14 @@
 
 </p>
 
-## 📚 Libraries used
+## Install & Run
+
+git clone https://github.com/pldtn/pencileasyapp.git
+cd pencileasyapp
+npm install
+npm run dev
+
+## Libraries
 
 - [html2canvas] - Turns DOM into Canvas.
 - [jsPDF] - To generate PDF from images.
@@ -14,5 +21,5 @@
 
 [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/jgsaade)
 
-Bye!
-Have fun 🦄
+
+DTN
