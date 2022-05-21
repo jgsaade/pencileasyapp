@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Pencil Easy title image by jgsaade" src="" />
+<img alt="Pencil Easy title image by jgsaade" src="https://pencileasy.com/convertpen_logo.png" />
 
 </p>
 
