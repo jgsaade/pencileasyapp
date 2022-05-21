@@ -1,8 +1,8 @@
-# Contribution Guide 🌻
+# Contribution Guide
 
 The project is built with basic web setup (HTML, CSS, and JavaScript).
 
-## 🐨 Local Setup
+## Local Setup
 
 - [Fork](https://github.com/pldtn/pencileasyapp.git) this repository.
 
