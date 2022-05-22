@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://"
+    "url": "git+https://github.com/pldtn/pencileasyapp.git"
   },
   "keywords": [],
   "author": "Jose Saade <datenservices@gmail.com> (https://dtnservices.net/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://"
+    "url": "https://github.com/pldtn/pencileasyapp/issues"
   },
   "homepage": "",
   "devDependencies": {
