@@ -1,4 +1,4 @@
-# Contribution Guide 🌻
+Guide 
 
 The project is built with (HTML, CSS, and JavaScript).
 
