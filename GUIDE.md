@@ -2,7 +2,7 @@ Guide
 
 The project is built with (HTML, CSS, and JavaScript).
 
-## Local Setup
+## Setup
 
 - [Fork] https://github.com/pldtn/pencileasyapp/
 
