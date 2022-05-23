@@ -1,9 +1,21 @@
 <p align="center">
 <img alt="Pencil Easy title image by jgsaade" src="" />
-
 </p>
 
-## 📚 Libraries used
+## Setup
+
+- [Fork] https://github.com/pldtn/pencileasyapp/
+
+*Note: You need NodeJS installed in your machine to run formatter and server*
+
+```
+git clone https://github.com/pldtn/pencileasyapp.git
+cd pencileasyapp
+npm install
+npm run dev
+```
+
+## Libraries
 
 - [html2canvas] - Turns DOM into Canvas.
 - [jsPDF] - To generate PDF from images.
