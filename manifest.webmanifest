@@ -3,12 +3,12 @@
   "short_name": "PencilEasy & ConvertPen",
   "icons": [
     {
-      "src": "images/convertpen_logo_android-chrome-192x192.png",
+      "src": "https://pencileasy.com/convertpen_logo_android-chrome-512x512.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "images/convertpen_logo_android-chrome-512x512.png",
+      "src": "https://pencileasy.com/convertpen_logo_android-chrome-192x192.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -17,5 +17,5 @@
   "background_color": "#ddd",
   "display": "standalone",
   "start_url": ".",
-  "description": "I hate writing assignments so I made this tool called Pencil Easy & ConvertPen that converts text to an paper image that looks like handwriting"
+  "description": "Do you hate writing assignments? This app converts text to an paper image that looks like hand pencil writing. You can copy paste text content into the textbox and click generate image button to generate image. ConvertPen & PencilEasy."
 }

@@ -1,15 +1,15 @@
-# Contribution Guide
+# Contribution Guide 🌻
 
-The project is built with basic web setup (HTML, CSS, and JavaScript).
+The project is built with (HTML, CSS, and JavaScript).
 
 ## Local Setup
 
-- [Fork](https://github.com/pldtn/pencileasyapp.git) this repository.
+- [Fork](## link) this repository.
 
 *Note: You need NodeJS installed in your machine to run formatter and server*
 
 ```
-git clone https://github.com/pldtn/pencileasyapp.git
+git clone ##link##
 cd pencileasyapp
 npm install
 npm run dev

@@ -1,12 +1,13 @@
 {
   "name": "pencil-easy-convert-pen",
   "version": "1.0.0",
-  "description": "Hey everyone! Pencil Easy & ConvertPen is a tool that lets you generate paper image that looks like handwriting from text.",
+  "description": "Pencil Easy & ConvertPen is a tool that lets you generate paper image that looks like handwriting from text.",
   "main": "js/app.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
+    "start": "node app.js",
     "test": "cypress run",
     "eslint": "eslint --fix \"js/**/**.mjs\"",
     "prettier": "prettier --write \"./index.html\" \"js/**/**.mjs\" \"css/**.css\"",
@@ -39,5 +40,11 @@
     "hooks": {
       "pre-commit": "npm run prettier && eslint . --fix && npm run eslint"
     }
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "http-server": "^14.1.0",
+    "nodejs": "^0.0.0",
+    "update-server": "^1.0.4"
   }
 }
